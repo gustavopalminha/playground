@@ -1,0 +1,42 @@
+# **APP NAME**
+
+## **Description**
+TODO
+
+## **How to run**
+Clone repo or download source code project to local.
+
+Node v: 18.12.0
+
+Install dependencies:
+```bash
+$ npm install
+```
+
+Run the app:
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
+```
+
+Run tests
+```bash
+# unit tests
+$ npm run test
+
+# e2e tests
+$ npm run test:e2e
+
+# test coverage
+$ npm run test:cov
+```
+
+## **References**
+[Link](http://todo.to)
