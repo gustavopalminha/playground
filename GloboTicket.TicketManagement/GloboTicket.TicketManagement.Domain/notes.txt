@@ -1,0 +1,15 @@
+﻿Goal:
+-----
+Will contain interfaces & entities
+
+Folders:
+
+	Entities:
+	---------
+	"Business" related classes
+
+	Common:
+	-------
+	Used to support widely used "tasks", ex: orders will use AuditableEntity to tracki tis usage.
+
+

@@ -1,0 +1,6 @@
+﻿Contains implementation of CQRS:
+--------------------------------
+Feature based organization in the folders:
+This follows feature based design / approach
+Feature is a vertical slice with folder and subfolders
+Can contain the viewmodels (tipical not shared)

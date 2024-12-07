@@ -1,0 +1,17 @@
+Goal: Contain external or I/O components (examples bellow)
+----------------------------------------
+Database:
+	- EF Core
+	- DBContext
+Files
+Service Bus
+Service Client
+
+
+
+Contain implementations for contracts defined in Core 
+project (add project reference)
+
+Through dependency inversion and dependency injection, 
+services get implemented
+

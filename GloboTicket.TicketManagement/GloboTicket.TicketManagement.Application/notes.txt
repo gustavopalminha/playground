@@ -1,0 +1,44 @@
+Goal:
+-----
+Will contain contracts & messaging to be loosely coupled
+
+contracts (interfaces):
+-----------------------
+used in infrastructure project and repositories
+
+
+
+messaging: 
+---------
+to avoid concrete references from one to another component instead we will use 
+mediator
+
+
+
+repositories:
+-------------
+mediates between domain and data mapping layer and / or also used 
+with Unit of Work pattern
+data access operations
+agnostic for rest of application
+generic methods
+specific repositories
+
+
+mediator design pattern:
+------------------------
+business logic stays in one location
+
+
+
+
+
+install MediaR package:
+-----------------------
+use / implemement de IResquest & IRequestHandler
+has advanced features with: logging, validation, caching
+
+mapping Entity to View Model using AutoMapper:
+install Automapper
+Startup registration with DI
+Use Profiles
