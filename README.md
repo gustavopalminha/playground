@@ -8,5 +8,5 @@ Do not mix multiple project files in the same commit!
 
 # Structure
 This repo contains:
-- common-folder: Contains a list of usefull resources.
+- common-folder: Contains a list of useful resources.
 - project-folder: Contains a `playable` project.
